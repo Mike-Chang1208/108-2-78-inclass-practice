@@ -5,14 +5,15 @@
     "dirty" : true,
     "encoding" : "",
     "folds" : "",
-    "hash" : "464026016",
+    "hash" : "0",
     "id" : "620E9A7C",
     "lastKnownWriteTime" : 1,
-    "last_content_update" : 1584516757878,
+    "last_content_update" : 1584520096277,
     "path" : null,
     "project_path" : null,
     "properties" : {
-        "cursorPosition" : "15,11",
+        "cursorPosition" : "34,3",
+        "last_setup_crc32" : "85045ABEbb338d19",
         "scrollLine" : "0",
         "tempName" : "Untitled2"
     },

@@ -17,6 +17,24 @@ library(dplyr)
 library(lubridate)
 
 ```
+##create objects
+```{r}
+a <- 2
+a = 2 # = 與 <-同義
+```
+```{r}
+3 -> b
+```
+```{r}
+my.108.total.credit <- 15
+
+```
+```{r}
+'我的年紀' <- 19
+my_age <- '我的年紀'
+```
+
+
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
