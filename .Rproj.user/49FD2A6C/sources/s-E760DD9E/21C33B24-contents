@@ -1,7 +1,7 @@
 ---
-title: "20200401課程練習"
+title: '0401'
 author: "張忠晉"
-date: "2020/4/7"
+date: "2020/4/8"
 output: html_document
 ---
 
@@ -27,26 +27,21 @@ list(
                           )
                         )
                     ),
-                  `108-2`)
+                  `108-2`=
+                    list(
+                      year=108,
+                      semester=2,
+                      course=
+                        list(
+                          list(
+                            name="作業研究",
+                            teacher="Jason",
+                            grade=90
+                          )
+                        )
+                    )
+                  )
   
 )
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

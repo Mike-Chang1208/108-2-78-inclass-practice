@@ -1,0 +1,44 @@
+---
+title: "Untitled"
+author: "張忠晉"
+date: "2020/4/8"
+output: html_document
+---
+
+.
+```{r}
+library(lubridate)
+`天氣預報` <- 
+  list(
+    date =
+      list(
+        ymd(2020-03-31) <-
+          list(
+            "Taipei City" =
+              list(
+                highest = 25,
+                lowest = 18
+              ),
+           "New Taipei City" =
+              list(
+                highest = 24,
+                lowest = 15
+              )
+          ),
+        ymd(2020-04-01) <-
+          list(
+            "Taipei City"=
+              list(
+                highest = 25,
+                lowest = 18
+              ),
+            "New Taipei City"=
+              list(
+                highest = 24,
+                lowest = 15
+              )
+          )
+      )
+  )
+print(`天氣預報`)
+```
