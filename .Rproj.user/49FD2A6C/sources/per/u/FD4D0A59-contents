@@ -1,0 +1,52 @@
+---
+title: "20200401課程練習"
+author: "張忠晉"
+date: "2020/4/7"
+output: html_document
+---
+
+.
+```{r}
+list(
+  names = "小明",
+  semester = list(`108-1`= 
+                    list(
+                      year=108,
+                      semester=1,
+                      course=
+                        list(
+                          list(
+                            name = "個體經濟學",
+                            teacher ="`Alice",
+                            grade = 85
+                          ),
+                          list(
+                            name = "總體經濟學",
+                            teacher = "Mark",
+                            grade = 78
+                          )
+                        )
+                    ),
+                  `108-2`)
+  
+)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586226354965.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F38DD0E7",
+    "lastKnownWriteTime" : 27866417834557487,
+    "last_content_update" : 1586226354965,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "bb48eccfc90541299511f651f6ecbccb",
+        "name" : "小明的修課記錄",
+        "title" : "小明的修課記錄"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
