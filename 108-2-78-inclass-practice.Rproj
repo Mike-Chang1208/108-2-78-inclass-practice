@@ -1,13 +1,46 @@
-Version: 1.0
+---
+title: '0401'
+author: "張忠晉"
+date: "2020/4/8"
+output: html_document
+---
 
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
-
-EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
-Encoding: UTF-8
-
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
+.
+```{r}
+list(
+  names = "小明",
+  semester = list(`108-1`= 
+                    list(
+                      year=108,
+                      semester=1,
+                      course=
+                        list(
+                          list(
+                            name = "個體經濟學",
+                            teacher ="`Alice",
+                            grade = 85
+                          ),
+                          list(
+                            name = "總體經濟學",
+                            teacher = "Mark",
+                            grade = 78
+                          )
+                        )
+                    ),
+                  `108-2`=
+                    list(
+                      year=108,
+                      semester=2,
+                      course=
+                        list(
+                          list(
+                            name="作業研究",
+                            teacher="Jason",
+                            grade=90
+                          )
+                        )
+                    )
+                  )
+  
+)
+```
